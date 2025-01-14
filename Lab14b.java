@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -13,7 +13,8 @@ public class Lab14b
 		int[] one = {1,2,3,4,5,6,7,8,9,10};
 		int[] two = {1,2,3,9,11,20,30};
 		//add more test cases
-
+		int[] three = {20,12,9,6,3,2,1};
+		int[] four = {25,30,32,35,37,40};
 
 		System.out.println(Arrays.toString(one));
 		System.out.println("is going Up ?  " + ArrayFunHouseTwo.goingUp(one));
